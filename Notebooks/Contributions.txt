@@ -1,0 +1,17 @@
+Teammate Contributions
+
+1. CS21BTECH11007 (VEDANT)
+	a. vae_celebnet.ipynb
+	b. vae_mnist.ipynb
+
+2. CS21BTECH11051 (RAJIV)
+	a. dft.ipynb
+	b. diffusion-celeb.ipynb
+	c. vae-diffusion.ipynb
+	d. multi-vae.ipynb and its variants
+
+3. CS21BTECH11041 (NITYA)
+	a. LSCA_GANipynb(1).ipynb
+
+4. AI22BTECH11016 (UMANSHIVA)
+	a. cGAN+ContraVAE.ipynb
