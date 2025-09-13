@@ -9,7 +9,7 @@ We integrate **contrastive learning into VAEs** and implement **Conditional GANs
 - **Team size:** 4 members  
 - **My contributions:**  
   - **Surveyed** GAN, Conditional GAN, and ContraGAN literature.  
-  - **Implemented** Contrastive VAE with contrastive loss based on [ContraGAN]: https://arxiv.org/abs/2006.12681 for latent disentanglement.  
-  - **Developed** [Conditional GAN][https://arxiv.org/abs/1411.1784] for class-controlled image generation on MNIST.
+  - **Implemented** Contrastive VAE with contrastive loss based on [ContraGAN](https://arxiv.org/abs/2006.12681) for latent disentanglement.  
+  - **Developed** [Conditional GAN](https://arxiv.org/abs/1411.1784) for class-controlled image generation on MNIST.
 
 ---
